@@ -11,6 +11,6 @@ layout: default
 <br>
 
 {% include 03-links.md %}
-[GitHub](http://github.com)
+[GitHub]
 
 
