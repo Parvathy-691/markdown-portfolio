@@ -15,7 +15,17 @@ layout: default
 
 {% include 03-links.md %}
 
-[text][https://octodex.github.com/images/yaktocat.png]
+
+<br>
+
+{% include 04-lists.md %}
+*emojis
+<br>
+
+{% include 05-emphasis.md %}
+
+
 
 
 .
+
