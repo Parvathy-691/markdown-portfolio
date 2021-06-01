@@ -1,6 +1,6 @@
-Replace this with a list of your favorite things.
--E-moji
 
--Ordered Lists
+- Emoji
+
+- Ordered Lists
 
 -Unordered Lists
